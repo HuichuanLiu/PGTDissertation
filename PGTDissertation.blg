@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PGTDissertation.aux
+The style file: unsrt.bst
+Database file #1: PGTDissertation.bib
+Repeated entry---line 242 of file PGTDissertation.bib
+ : @article{shahshahani1994effect
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 262 of file PGTDissertation.bib
+ : @article{miller1997mixture
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 523 of file PGTDissertation.bib
+ : @article{zhou2005tri
+ :                     ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in national2006parkinson
+Warning--empty journal in vegaparkinson
+Warning--empty year in vegaparkinson
+Warning--empty journal in rosenberg2005semi
+Warning--empty journal in zhu2005semi
+Warning--empty journal in chapelletransductive
+Warning--empty year in chapelletransductive
+Warning--empty journal in blum2001learning
+You've used 48 entries,
+            1791 wiz_defined-function locations,
+            734 strings with 13253 characters,
+and the built_in function-call counts, 13534 in all, are:
+= -- 1263
+> -- 569
+< -- 18
++ -- 208
+- -- 160
+* -- 960
+:= -- 2011
+add.period$ -- 149
+call.type$ -- 48
+change.case$ -- 48
+chr.to.int$ -- 0
+cite$ -- 56
+duplicate$ -- 598
+empty$ -- 1291
+format.name$ -- 160
+if$ -- 3067
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 47
+newline$ -- 240
+num.names$ -- 48
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 331
+stack$ -- 0
+substring$ -- 1132
+swap$ -- 191
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 141
+width$ -- 50
+write$ -- 523
+(There were 3 error messages)
