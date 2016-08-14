@@ -69,6 +69,12 @@ Joseph~P Giuffrida, David~E Riley, Brian~N Maddux, and Dustin~A Heldman.
   assessment.
 \newblock {\em Movement Disorders}, 24(5):723--730, 2009.
 
+\bibitem{lesage2009parkinson}
+Suzanne Lesage and Alexis Brice.
+\newblock Parkinson's disease: from monogenic forms to genetic susceptibility
+  factors.
+\newblock {\em Human molecular genetics}, 18(R1):R48--R59, 2009.
+
 \bibitem{jankovic1999re}
 Joseph Jankovic, Kenneth~S Schwartz, and William Ondo.
 \newblock Re-emergent tremor of parkinson's disease.
@@ -86,12 +92,6 @@ Kevin~C Brennan, Eva~C Jurewicz, Blair Ford, Seth~L Pullman, and Elan~D Louis.
   clinical and electrophysiological study.
 \newblock {\em Movement disorders}, 17(2):313--316, 2002.
 
-\bibitem{lesage2009parkinson}
-Suzanne Lesage and Alexis Brice.
-\newblock Parkinson's disease: from monogenic forms to genetic susceptibility
-  factors.
-\newblock {\em Human molecular genetics}, 18(R1):R48--R59, 2009.
-
 \bibitem{koller1989tremors}
 William~C Koller, Bridget Vetere-Overfield, and Ruth Barter.
 \newblock Tremors in early parkinson's disease.
@@ -104,6 +104,12 @@ Robert LeMoyne, Timothy Mastroianni, Michael Cozza, Cristian Coroian, and
   tremor through a wireless accelerometer application.
 \newblock In {\em Engineering in Medicine and Biology Society (EMBC), 2010
   Annual International Conference of the IEEE}, pages 4954--4958. IEEE, 2010.
+
+\bibitem{bonato2005advances}
+Paolo Bonato.
+\newblock Advances in wearable technology and applications in physical medicine
+  and rehabilitation.
+\newblock {\em Journal of NeuroEngineering and Rehabilitation}, 2(1):2, 2005.
 
 \bibitem{bonato2004data}
 Paolo Bonato, Delsey~M Sherrill, David~G Standaert, Sara~S Salles, and Metin
@@ -120,6 +126,11 @@ Rudy Moddemeijer.
   distributions.
 \newblock {\em Signal processing}, 16(3):233--248, 1989.
 
+\bibitem{vegaparkinson}
+Julio Vega.
+\newblock Parkinson?s disease progression assessment using behavioural
+  inferences and smartphones (pandas).
+
 \bibitem{sharma2014spark}
 Vinod Sharma, Kunal Mankodiya, Fernando De~La~Torre, Ada Zhang, Neal Ryan,
   Thanh~GN Ton, Rajeev Gandhi, and Samay Jain.
@@ -133,11 +144,6 @@ Vinod Sharma, Kunal Mankodiya, Fernando De~La~Torre, Ada Zhang, Neal Ryan,
 eMarketer.
 \newblock Number of smartphone users worldwide from 2014 to 2019 (in millions),
   2016.
-
-\bibitem{vegaparkinson}
-Julio Vega.
-\newblock Parkinson?s disease progression assessment using behavioural
-  inferences and smartphones (pandas).
 
 \bibitem{zwartjes2010ambulatory}
 Daphne~GM Zwartjes, Tjitske Heida, Jeroen~PP van Vugt, Jan~AG Geelen, and

@@ -23,45 +23,45 @@ Warning--empty journal in zhu2005semi
 Warning--empty journal in chapelletransductive
 Warning--empty year in chapelletransductive
 Warning--empty journal in blum2001learning
-You've used 48 entries,
+You've used 49 entries,
             1791 wiz_defined-function locations,
-            734 strings with 13253 characters,
-and the built_in function-call counts, 13534 in all, are:
-= -- 1263
-> -- 569
+            739 strings with 13436 characters,
+and the built_in function-call counts, 13689 in all, are:
+= -- 1276
+> -- 573
 < -- 18
-+ -- 208
-- -- 160
-* -- 960
-:= -- 2011
-add.period$ -- 149
-call.type$ -- 48
-change.case$ -- 48
++ -- 210
+- -- 161
+* -- 970
+:= -- 2038
+add.period$ -- 152
+call.type$ -- 49
+change.case$ -- 49
 chr.to.int$ -- 0
-cite$ -- 56
-duplicate$ -- 598
-empty$ -- 1291
-format.name$ -- 160
-if$ -- 3067
+cite$ -- 57
+duplicate$ -- 607
+empty$ -- 1309
+format.name$ -- 161
+if$ -- 3101
 int.to.chr$ -- 0
-int.to.str$ -- 48
-missing$ -- 47
-newline$ -- 240
-num.names$ -- 48
-pop$ -- 150
+int.to.str$ -- 49
+missing$ -- 48
+newline$ -- 245
+num.names$ -- 49
+pop$ -- 151
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 331
+skip$ -- 334
 stack$ -- 0
-substring$ -- 1132
-swap$ -- 191
+substring$ -- 1135
+swap$ -- 192
 text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 141
-width$ -- 50
-write$ -- 523
+while$ -- 143
+width$ -- 51
+write$ -- 534
 (There were 3 error messages)

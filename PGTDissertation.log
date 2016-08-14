@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.27)  13 AUG 2016 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.27)  14 AUG 2016 13:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,41 +358,50 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
  [3] [4]
+[5]
 Chapter 2.
-[5
+[6
 
-] [6] [7] [8]
+] [7]
+Overfull \hbox (3.55446pt too wide) in paragraph at lines 114--115
+[]\OT1/cmr/m/n/12 As an in-stance, UP-DRS and its re-vi-sion, Move-ment Dis-or-
+der Society-sponsored
+ []
+
+[8]
+Overfull \hbox (3.76694pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/n/12 fully achieve non-in-tru-sive and lon-gi-tu-di-nal mon-i-tor-in
+g of PD symp-toms in portable
+ []
+
+[9]
 Missing character: There is no £ in font cmr12!
 Missing character: There is no £ in font cmr12!
- [9]
-Overfull \hbox (1.09186pt too wide) in paragraph at lines 134--135
+ [10]
+Overfull \hbox (1.09186pt too wide) in paragraph at lines 136--137
 \OT1/cmr/m/n/12 With data col-lected in a full-controlled lab-o-ra-tory ex-per-
 i-ment, this sys-tem reached
  []
 
-[10] [11]
+[11] [12]
 Chapter 3.
-[12
-
-]
-Chapter 4.
 [13
 
 ] [14] [15] [16] [17] [18]
-Chapter 5.
+Chapter 4.
 [19
 
-]
-Chapter 6.
-[20
-
-]
-Chapter 7.
+] [20]
+Chapter 5.
 [21
 
 ]
-Chapter 8.
-(./PGTDissertation.bbl [22
+Chapter 6.
+[22
+
+]
+Chapter 7.
+(./PGTDissertation.bbl [23
 
 ]
 Underfull \hbox (badness 1248) in paragraph at lines 15--22
@@ -400,20 +409,20 @@ Underfull \hbox (badness 1248) in paragraph at lines 15--22
 NIKA
  []
 
-[23
+[24
 
-] [24] [25]
-Underfull \hbox (badness 1043) in paragraph at lines 183--186
+] [25] [26]
+Underfull \hbox (badness 1043) in paragraph at lines 189--192
 []\OT1/cmr/m/n/12 Chuck Rosen-berg, Mar-tial Hebert, and Henry Schnei-der-man. 
  Semi-
  []
 
-[26] [27]) [28] (./PGTDissertation.aux) ) 
+[27] [28]) [29] (./PGTDissertation.aux) ) 
 Here is how much of TeX's memory you used:
- 4522 strings out of 493089
- 63584 string characters out of 6134842
- 137860 words of memory out of 5000000
- 7940 multiletter control sequences out of 15000+600000
+ 4523 strings out of 493089
+ 63604 string characters out of 6134842
+ 137864 words of memory out of 5000000
+ 7941 multiletter control sequences out of 15000+600000
  11424 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,38p,2559b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -426,10 +435,10 @@ type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on PGTDissertation.pdf (33 pages, 161477 bytes).
+Output written on PGTDissertation.pdf (34 pages, 162038 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
