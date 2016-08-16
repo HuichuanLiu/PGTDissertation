@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {3.1}Logistic Regression}{17}
 \contentsline {subsection}{\numberline {3.2}K-NN Model and K-d Tree}{17}
 \contentsline {section}{\numberline {4}Semi-supervised Machine Learning}{17}
-\contentsline {subsection}{\numberline {4.1}Generative Models}{17}
+\contentsline {subsection}{\numberline {4.1}Generative Models}{18}
 \contentsline {subsection}{\numberline {4.2}Self-training Models}{18}
 \contentsline {subsection}{\numberline {4.3}S3VM Models}{19}
 \contentsline {subsection}{\numberline {4.4}Graph-based Models}{20}
