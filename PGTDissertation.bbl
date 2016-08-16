@@ -153,6 +153,25 @@ Daphne~GM Zwartjes, Tjitske Heida, Jeroen~PP van Vugt, Jan~AG Geelen, and
 \newblock {\em IEEE transactions on biomedical engineering}, 57(11):2778--2786,
   2010.
 
+\bibitem{jankovic2008parkinson}
+Joseph Jankovic.
+\newblock Parkinson?s disease: clinical features and diagnosis.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  79(4):368--376, 2008.
+
+\bibitem{kostek2015knowledge}
+Bo{\.z}ena Kostek, Adam Kupryjanow, and Andrzej Czy{\.z}ewski.
+\newblock Knowledge representation of motor activity of patients with
+  parkinson?s disease.
+\newblock {\em Natural computing}, 14(4):579--591, 2015.
+
+\bibitem{kim2006tracking}
+Sunghan Kim and James McNames.
+\newblock Tracking tremor frequency in spike trains using the extended kalman
+  smoother.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 53(8):1569--1577,
+  2006.
+
 \bibitem{shahshahani1994effect}
 Behzad~M Shahshahani and David~A Landgrebe.
 \newblock The effect of unlabeled samples in reducing the small sample size
