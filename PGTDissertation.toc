@@ -9,36 +9,40 @@
 \contentsline {subsection}{\numberline {3.1}Automatic Monitoring}{9}
 \contentsline {subsection}{\numberline {3.2}Data Technology on Assessment}{11}
 \contentsline {section}{\numberline {4}Summary}{12}
-\contentsline {chapter}{\numberline {3}Research Methodology}{13}
-\contentsline {section}{\numberline {1}Signal Smoothing}{13}
-\contentsline {section}{\numberline {2}Supervised Machine Learning Algorithms}{13}
-\contentsline {subsection}{\numberline {2.1}Logistic Regression}{13}
-\contentsline {subsection}{\numberline {2.2}K-NN Model and K-d Tree}{13}
-\contentsline {section}{\numberline {3}Semi-supervised Machine Learning}{13}
-\contentsline {subsection}{\numberline {3.1}Generative Models}{14}
-\contentsline {subsection}{\numberline {3.2}Self-training Models}{14}
-\contentsline {subsection}{\numberline {3.3}S3VM Models}{15}
-\contentsline {subsection}{\numberline {3.4}Graph-based Models}{16}
-\contentsline {subsection}{\numberline {3.5}Co-training Models}{17}
-\contentsline {section}{\numberline {4}Receiver Operating Characteristic}{18}
-\contentsline {section}{\numberline {5}Cross-Validation}{18}
-\contentsline {section}{\numberline {6}Information Gain}{18}
-\contentsline {chapter}{\numberline {4}Experiment Implementation}{19}
-\contentsline {section}{\numberline {1}Data Description}{19}
-\contentsline {section}{\numberline {2}System Workflow}{19}
-\contentsline {section}{\numberline {3}Data Preprocess}{19}
-\contentsline {subsection}{\numberline {3.1}Data Clean}{19}
-\contentsline {subsection}{\numberline {3.2}Rule Based Filter}{19}
-\contentsline {subsection}{\numberline {3.3}Feature Extraction}{19}
-\contentsline {section}{\numberline {4}Model Implementation}{20}
-\contentsline {subsection}{\numberline {4.1}Self-training Models}{20}
-\contentsline {subsection}{\numberline {4.2}Gaussian Mixture Models}{20}
-\contentsline {section}{\numberline {5}System Evaluation}{20}
-\contentsline {subsection}{\numberline {5.1}Model Evaluation}{20}
-\contentsline {subsection}{\numberline {5.2}Feature Evaluation}{20}
-\contentsline {chapter}{\numberline {5}Experiment Results}{21}
-\contentsline {section}{\numberline {1}Model Performance}{21}
-\contentsline {section}{\numberline {2}Feature Assessments}{21}
-\contentsline {chapter}{\numberline {6}Conclusion}{22}
-\contentsline {chapter}{\numberline {7}Limitation and Future Work}{23}
-\contentsline {chapter}{Bibliography}{24}
+\contentsline {chapter}{\numberline {3}System Design}{13}
+\contentsline {section}{\numberline {1}Data Description}{13}
+\contentsline {section}{\numberline {2}Data Preprocess}{15}
+\contentsline {subsection}{\numberline {2.1}Rule-based Filter}{15}
+\contentsline {subsection}{\numberline {2.2}Data Splitting}{16}
+\contentsline {subsection}{\numberline {2.3}Feature Extraction}{17}
+\contentsline {section}{\numberline {3}Supervised Machine Learning Algorithms}{17}
+\contentsline {subsection}{\numberline {3.1}Logistic Regression}{17}
+\contentsline {subsection}{\numberline {3.2}K-NN Model and K-d Tree}{17}
+\contentsline {section}{\numberline {4}Semi-supervised Machine Learning}{17}
+\contentsline {subsection}{\numberline {4.1}Generative Models}{17}
+\contentsline {subsection}{\numberline {4.2}Self-training Models}{18}
+\contentsline {subsection}{\numberline {4.3}S3VM Models}{19}
+\contentsline {subsection}{\numberline {4.4}Graph-based Models}{20}
+\contentsline {subsection}{\numberline {4.5}Co-training Models}{21}
+\contentsline {section}{\numberline {5}Receiver Operating Characteristic}{22}
+\contentsline {section}{\numberline {6}Cross-Validation}{22}
+\contentsline {section}{\numberline {7}Information Gain}{22}
+\contentsline {chapter}{\numberline {4}Experiment Implementation}{23}
+\contentsline {section}{\numberline {1}Data Description}{23}
+\contentsline {section}{\numberline {2}System Workflow}{23}
+\contentsline {section}{\numberline {3}Data Preprocess}{23}
+\contentsline {subsection}{\numberline {3.1}Data Clean}{23}
+\contentsline {subsection}{\numberline {3.2}Rule Based Filter}{23}
+\contentsline {subsection}{\numberline {3.3}Feature Extraction}{23}
+\contentsline {section}{\numberline {4}Model Implementation}{24}
+\contentsline {subsection}{\numberline {4.1}Self-training Models}{24}
+\contentsline {subsection}{\numberline {4.2}Gaussian Mixture Models}{24}
+\contentsline {section}{\numberline {5}System Evaluation}{24}
+\contentsline {subsection}{\numberline {5.1}Model Evaluation}{24}
+\contentsline {subsection}{\numberline {5.2}Feature Evaluation}{24}
+\contentsline {chapter}{\numberline {5}Experiment Results}{25}
+\contentsline {section}{\numberline {1}Model Performance}{25}
+\contentsline {section}{\numberline {2}Feature Assessments}{25}
+\contentsline {chapter}{\numberline {6}Conclusion}{26}
+\contentsline {chapter}{\numberline {7}Limitation and Future Work}{27}
+\contentsline {chapter}{Bibliography}{28}

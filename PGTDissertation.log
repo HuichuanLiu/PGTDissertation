@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.27)  14 AUG 2016 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.27)  16 AUG 2016 01:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -387,21 +387,31 @@ i-ment, this sys-tem reached
 Chapter 3.
 [13
 
-] [14] [15] [16] [17] [18]
-Chapter 4.
-[19
+]
 
-] [20]
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 151.
+
+
+Overfull \hbox (39.02197pt too wide) in paragraph at lines 187--194
+ [] 
+ []
+
+[14] [15] [16] [17] [18] [19] [20] [21] [22]
+Chapter 4.
+[23
+
+] [24]
 Chapter 5.
-[21
+[25
 
 ]
 Chapter 6.
-[22
+[26
 
 ]
 Chapter 7.
-(./PGTDissertation.bbl [23
+(./PGTDissertation.bbl [27
 
 ]
 Underfull \hbox (badness 1248) in paragraph at lines 15--22
@@ -409,36 +419,42 @@ Underfull \hbox (badness 1248) in paragraph at lines 15--22
 NIKA
  []
 
-[24
+[28
 
-] [25] [26]
+] [29] [30]
 Underfull \hbox (badness 1043) in paragraph at lines 189--192
 []\OT1/cmr/m/n/12 Chuck Rosen-berg, Mar-tial Hebert, and Henry Schnei-der-man. 
  Semi-
  []
 
-[27] [28]) [29] (./PGTDissertation.aux) ) 
+[31] [32])
+
+Package caption Warning: Unused \captionsetup[table] on input line 153.
+See the caption package documentation for explanation.
+
+[33] (./PGTDissertation.aux) ) 
 Here is how much of TeX's memory you used:
- 4523 strings out of 493089
- 63604 string characters out of 6134842
- 137864 words of memory out of 5000000
- 7941 multiletter control sequences out of 15000+600000
- 11424 words of font info for 40 fonts, out of 8000000 for 9000
+ 4533 strings out of 493089
+ 63753 string characters out of 6134842
+ 139875 words of memory out of 5000000
+ 7951 multiletter control sequences out of 15000+600000
+ 11878 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,38p,2559b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti12.pfb>
-Output written on PGTDissertation.pdf (34 pages, 162038 bytes).
+ 38i,8n,38p,2559b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsl12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti12.pfb>
+Output written on PGTDissertation.pdf (38 pages, 190178 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 165 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
